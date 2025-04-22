@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Barry Mamadou Dioulde  
-### Backend Developer | DevOps Enthusiast | Open Source Contributor  
+### Backend Developer | DevOps Enthusiast | From Guinea
 
 ---
 
